@@ -11,6 +11,17 @@ It will manage any combination of the following flags: `-0.*` and minimum field 
 
 **Examples:**
 
+<table>
+  <tr>
+    <td align="center">Example</td>
+    <td align="center">Result</td>
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/84783740/120312792-d3b1b100-c2e1-11eb-859d-755e84e7eb64.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/84783740/120312815-dd3b1900-c2e1-11eb-9982-0503d59459e8.png"></td>
+  </tr>
+</table>
+
 <img width="335" alt="Screen Shot 2021-06-01 at 1 38 51 PM" src="https://user-images.githubusercontent.com/84783740/120312748-c7c5ef00-c2e1-11eb-8297-215bf537989e.png">
 <img width="322" alt="Screen Shot 2021-06-01 at 1 36 42 PM" src="https://user-images.githubusercontent.com/84783740/120312767-cdbbd000-c2e1-11eb-8e4e-38f2508f697e.png">
 <img width="794" alt="Screen Shot 2021-06-01 at 1 47 05 PM" src="https://user-images.githubusercontent.com/84783740/120312792-d3b1b100-c2e1-11eb-859d-755e84e7eb64.png">
