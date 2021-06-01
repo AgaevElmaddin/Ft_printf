@@ -35,3 +35,14 @@ It will manage any combination of the following flags: `-0.*` and minimum field 
 2. Do `make` to compile Ft_printf. After that copy the `libftprintf.a` and `ft_printf.h` and paste them into your project.
 3. Compile your project using `gcc YourFileName -L. -lftprintf -I.`.
 4. Run your program using `./a.out`.
+
+<table>
+  <tr>
+    <td align="center">Your program</td>
+    <td align="center">Result</td>
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/84783740/120312748-c7c5ef00-c2e1-11eb-8297-215bf537989e.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/84783740/120312767-cdbbd000-c2e1-11eb-8e4e-38f2508f697e.png"></td>
+  </tr>
+</table>
