@@ -14,10 +14,17 @@ It will manage any combination of the following flags: `-0.*` and minimum field 
 <table>
   <tr>
     <td align="center">Example</td>
-    <td align="center">Result</td>
   </tr>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/84783740/120312792-d3b1b100-c2e1-11eb-859d-755e84e7eb64.png"></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center">Result</td>
+  </tr>
+  <tr>
     <td><img src="https://user-images.githubusercontent.com/84783740/120312815-dd3b1900-c2e1-11eb-9982-0503d59459e8.png"></td>
   </tr>
 </table>
